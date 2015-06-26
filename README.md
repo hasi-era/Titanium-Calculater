@@ -1,4 +1,4 @@
-#####Titanium-Calculater
+##### Titanium-Calculater
 
 =========================================
 
@@ -7,7 +7,7 @@
 ```xml
 <android xmlns:android="http://schemas.android.com/apk/res/android"/>...
 ```
-## with below code
+> with below code
 
 ```xml
 <android 
