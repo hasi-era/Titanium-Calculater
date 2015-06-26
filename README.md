@@ -4,7 +4,7 @@ Titanium-Calculater
 
 Please Replace below code in your tiapp.xml:
 
-<code><android xmlns:android="http://schemas.android.com/apk/res/android"/></code>
+<blockquote><android xmlns:android="http://schemas.android.com/apk/res/android"/></blockquote>
 
 with below code
 
