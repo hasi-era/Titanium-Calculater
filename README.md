@@ -1,5 +1,4 @@
 <H2> Titanium-Calculater </H2>
-=========================================
 
 > Please Replace below [code] in your tiapp.xml:
 
