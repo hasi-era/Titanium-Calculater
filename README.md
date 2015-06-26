@@ -7,7 +7,11 @@ Please Replace below code in your tiapp.xml:
 ```xml
 <android xmlns:android="http://schemas.android.com/apk/res/android"/>...
 ```
-with below code
+## with below code
+## with below code
+## with below code
+## with below code
+## with below code
 ```xml
 <android 
     xmlns:android="http://schemas.android.com/apk/res/android">
